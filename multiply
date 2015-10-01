@@ -1,0 +1,4 @@
+firstnumber = int(input("enter number 1"))
+secondnumber = int(input("enter number 2"))
+result = firstnumber*secondnumber
+print("well done josh the awnser is",result)
